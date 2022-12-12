@@ -1,0 +1,25 @@
+.custom-header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 40px;
+    background-color: white;
+    color: #6A707E;
+    font-family: "Comic Sans";  
+    font-size: 20px;
+    gap: 1.5rem;
+    padding: 0 1rem;
+    font-weight: unset;
+    height: 50px;
+    line-height: 5px;
+}
+    
+h4 {
+    font-weight: normal;
+    background-color: white;
+}
+
+h5 {
+    font-weight: normal;
+    font-size: 15px;
+    background-color: white;
+}
